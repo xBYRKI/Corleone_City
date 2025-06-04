@@ -1,0 +1,79 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea_modules/
+*.iml
+*.ipr
+out/
+.idea_modules/
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/scopes/
+
+# Build output
+out/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Gradle files (uncomment if using Gradle)
+# .gradle/
+# build/
+# local.properties
+# *.properties
+# .idea/caches/
+# .idea/libraries/
+
+# Maven (uncomment if using Maven)
+# target/
+# pom.xml.versionsBackup
+
+# Logs
+*.log
+
+# JVM crash logs
+hs_err_pid*
+
+# Editor directories and files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/datasources.xml
+.idea/dataSources.ids
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/shelf/
+.idea/libraries/
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/datasources.local.xml
+.idea/deploymentTargetDropDown.xml
+.idea/encodings.xml
+.idea/markdown-exported-files.xml
+.idea/markdown-navigator.xml
+.idea/markdown-navigator/
+.idea/runConfigurations/
+.idea/sonarlint/
+.idea/workspace.xml
+.idea/*.xml
+
+# Ignore everything in .idea except the code style settings
+.idea/*
+!.idea/codeStyles/
+!.idea/inspectionProfiles/
+!.idea/scopes/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
